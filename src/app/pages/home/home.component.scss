@@ -6,3 +6,10 @@
 h1{
   font-family: var(--font_title);
 }
+
+@media screen and ( max-width: 992px ){
+  h1{
+    font-size: 3rem;
+  }
+
+}
