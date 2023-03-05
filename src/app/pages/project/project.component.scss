@@ -54,3 +54,10 @@ header{
     }
   }
 }
+@media screen and (max-width:640px){
+  .project{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+  }
+}
