@@ -1,0 +1,10 @@
+:host{
+  display: flex;
+  justify-content: center;
+  background: -webkit-gradient(linear, right top, right bottom,
+   color-stop(0%,#f6f4f6), color-stop(50%,#f6f4f6), color-stop(50%,#6fdcbf), color-stop(100%,#6fdcbf));
+}
+.about{
+  min-height: 100vh;
+  font-family: "Shantell Sans", cursive, sans-serif;
+}
